@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(66, 63, 70);
+    font-family:Times 'Times New Roman', Times, serif;
+    color: aqua;
+    font-style: italic;
+    }
+h6{
+    font-family:Times 'Times New Roman', Times, serif;
+    color: rgb(242, 255, 0);
+    font-style: italic;  
+    }
+table{
+    font-family:Times 'Times New Roman';
+    color:rgb(221, 255, 0);   
+    }
+p1{
+    font-family:Times 'Times New Roman', Times, serif;
+    color: rgb(234, 0, 255);
+    font-style: italic; 
+    } 
+
+p2{
+    font-family:Times 'Times New Roman', Times, serif;
+    color: rgb(255, 102, 0);
+    font-style: italic;  
+    }
+
+p3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(195, 0, 255);
+    }
