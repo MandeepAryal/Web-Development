@@ -1,31 +1,26 @@
 body{
-    background-color:rgb(66, 63, 70);
-    font-family:Times 'Times New Roman', Times, serif;
-    color: aqua;
+    background-color:rgb(62, 145, 145);
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
     font-style: italic;
     }
-h6{
-    font-family:Times 'Times New Roman', Times, serif;
-    color: rgb(242, 255, 0);
+h3{
+    color: rgb(255, 255, 255);
     font-style: italic;  
     }
 table{
-    font-family:Times 'Times New Roman';
+    font-family:'Courier New', Courier, monospace;
     color:rgb(221, 255, 0);   
     }
-p1{
-    font-family:Times 'Times New Roman', Times, serif;
-    color: rgb(234, 0, 255);
-    font-style: italic; 
-    } 
 
-p2{
-    font-family:Times 'Times New Roman', Times, serif;
-    color: rgb(255, 102, 0);
+.my-hobbies{
+    font-size: 18px;
+    color: rgb(238, 255, 0);
     font-style: italic;  
     }
 
-p3{
-    font-family:Arial, Helvetica, sans-serif;
-    color: rgb(195, 0, 255);
+.Favourite-movies{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
     }
