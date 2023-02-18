@@ -24,3 +24,13 @@ table{
     font-family:'Courier New', Courier, monospace;
     color: rgb(238, 255, 0);
     }
+.input-box{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
+}
+.check-box{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
+}
