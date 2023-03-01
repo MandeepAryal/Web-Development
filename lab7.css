@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&display=swap');body{
+    background-color:rgb(62, 145, 145);
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    }
+h3{
+    color: rgb(255, 255, 255);
+    font-style: italic;  
+    font-family: 'Gajraj One', cursive;
+    }
+table{
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(221, 255, 0);   
+    font-family: 'Gajraj One', cursive;
+    }
+
+.my-hobbies{
+    font-size: 18px;
+    color: rgb(238, 255, 0);
+    font-style: italic;  
+    font-family: 'Gajraj One', cursive;
+    }
+
+.Favourite-movies{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
+    font-family: 'Gajraj One', cursive;
+    }
+.input-box{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
+}
+.check-box{
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(238, 255, 0);
+    font-family: 'Gajraj One', cursive;
+}
